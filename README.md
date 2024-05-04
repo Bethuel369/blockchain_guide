@@ -1,15 +1,15 @@
 Hello there, I did the following to my forked repository as per the assignment:
  1.I cloned this repository to my local storage using the git clone command on the git bash interface.
   2.I forked this repository to my github account which was quite simple
-   3.I created a new branch feature-update in which I added some text to it's SUMMARY.md file and commitrd the changes
+   3.I created a new branch feature-update in which I added some text to it's SUMMARY.md file and commited the changes
     4.I merged the changes in the feature-update branch to the main branch
-     5.I was able to create a conflict and solve it by looking up how to do so on youtube
-      6.I created a simple html file index.html and enable github pages for this repository to ensure it would work
-       7.I opened an issue on the repository that that i forked my repository from, inquiring whwther they had translation projects for 
+     5.I was able to create a conflict and by creating  another branch I was able to solve them.
+      6.I created a simple html file index.html and enabled github pages for this repository to ensure it would work
+       7.I opened an issue on the repository that that i forked my repository from, inquiring whether they had translation projects for 
           their repository since as you can see it is written in Chinese.
 
           All in all i beleive I now all these advanced Github concepts and it is thanks to this assingnment. I would like to appologise 
-          for using a repo in another languange becaus ethe moment I realised my mistake I was too far into the assignment. Sorry for the 
+          for using a repo in another languange because the moment I realised my mistake I was too far into the assignment. Sorry for the 
           inconvinience. Thankyou.
 
 # 区块链技术指南
